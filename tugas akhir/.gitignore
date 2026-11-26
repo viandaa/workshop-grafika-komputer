@@ -1,0 +1,24 @@
+# Executable files
+*.exe
+*.dll
+*.pdb
+*.ilk
+
+# Object files
+*.o
+*.obj
+
+# Temporary files
+*.tmp
+
+# Visual Studio
+.vs/
+Debug/
+Release/
+
+# Build folders
+build/
+
+# OS files
+.DS_Store
+Thumbs.db

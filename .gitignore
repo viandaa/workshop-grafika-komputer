@@ -1,0 +1,28 @@
+# Executable
+*.exe
+*.dll
+*.pdb
+*.ilk
+
+# Object files
+*.o
+*.obj
+
+# Temporary files
+*.tmp
+
+# IDE
+.vs/
+.vscode/
+
+# Build folders
+Debug/
+Release/
+build/
+
+# Backup Git repository
+.git-backup/
+
+# OS files
+.DS_Store
+Thumbs.db
